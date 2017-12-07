@@ -5,7 +5,7 @@ So you can tell whether someone is retarded or not.
 And this time, the eneme is ... youself! 
 Uh..maybe computer
 
-I reperform her in python, perhaps she not be the best one, but shut up! I love her. 
+I reperform her in python, perhaps she is not the best one, but shut up! I love her. 
 
 It's time to talk about game rule:
   1. Pick 4 different number between 0~9.
@@ -23,4 +23,9 @@ It's time to talk about game rule:
       '1' number correct, position wrong, 1B.
       '5' number wrong, position wrong, 1C.
       So sum up the result it get 1A2B1C.
+You should use those ABC hint to find the final answer.
 
+And this program provide 2 mode, 
+you can guass the number produce by computer or
+you design an number to make computer gauss.
+But for the computer gauss part, I only have randam gauss so far, maybe more method well come up sometime. 
