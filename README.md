@@ -28,6 +28,6 @@ You should use those ABC hint to find the final answer.
 And this program provide 2 mode, 
 you can guass the number produced by computer or
 you design an number to make computer gauss.
-But for the computer gauss part, I only have randam gauss so far, maybe more method well come up sometime. 
+But for the computer gauss part, I only have randam gauss so far, maybe more method well come up someday. 
 
 BTW I don't know why my "README" format is like a mess, so forgive me, fix oneday. 
