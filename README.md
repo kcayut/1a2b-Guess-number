@@ -12,7 +12,7 @@ It's time to talk about game rule:
       for example : 1234
   2. Carefully rearrange them in a specific order.
       for example : 2341
-  3. Make otehrs gauss your number and the order,
+  3. Make others gauss your number and its order.
       if the NUMBER and the POSITION both correct, it denote as A.
       if the NUMBER correct, but the POSITION wrong, it denote as B.
       if neither the NUMBER and the POSITION wrong, it denote as C.
@@ -30,4 +30,4 @@ you can guass the number produced by computer or
 you design an number to make computer gauss.
 But for the computer gauss part, I only have randam gauss so far, maybe more method well come up someday. 
 
-BTW I don't know why my "README" format is like a mess, so forgive me, fix oneday. 
+BTW I don't know why my "README" format is like a mess, so forgive me. 
