@@ -8,12 +8,12 @@ Uh..maybe computer
 I reperform her in python, perhaps she not be the best one, but shut up! I love her. 
 
 It's time to talk about game rule:
-  1. Pick 4 different number between 0~9
+  1. Pick 4 different number between 0~9.
     for example : 1234
   2. Carefully rearrange them in a specific order.
         for example : 2341
   3. Make otehrs gauss your number and the order,
-      if the NUMBER and the POSITION both correct, it denote as A,
-      if the NUMBER correct, but the POSITION wrong, it denote as B,
+      if the NUMBER and the POSITION both correct, it denote as A.
+      if the NUMBER correct, but the POSITION wrong, it denote as B.
       if neither the NUMBER and the POSITION wrong, it denote as C.
       for example, someone gauss 4315
