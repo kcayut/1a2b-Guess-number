@@ -26,6 +26,6 @@ It's time to talk about game rule:
 You should use those ABC hint to find the final answer.
 
 And this program provide 2 mode, 
-you can guass the number produce by computer or
+you can guass the number produced by computer or
 you design an number to make computer gauss.
 But for the computer gauss part, I only have randam gauss so far, maybe more method well come up sometime. 
