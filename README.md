@@ -12,7 +12,7 @@ It's time to talk about game rule:
       for example : 1234
   2. Carefully rearrange them in a specific order.
       for example : 2341
-  3. Make others gauss your number and its order.
+  3. Make others guess your number and its order.
       if the NUMBER and the POSITION both correct, it denote as A.
       if the NUMBER correct, but the POSITION wrong, it denote as B.
       if neither the NUMBER and the POSITION wrong, it denote as C.
@@ -26,8 +26,8 @@ It's time to talk about game rule:
 You should use those ABC hint to find the final answer.
 
 And this program provide 2 mode, 
-you can guass the number produced by computer or
+you can guess the number produced by computer or
 you design an number to make computer gauss.
-But for the computer gauss part, I only have randam gauss so far, maybe more method well come up someday. 
+But for the computer guess part, I only have randam guess so far, maybe more method well come up someday. 
 
 BTW I don't know why my "README" format is like a mess, so forgive me. 
