@@ -5,7 +5,7 @@ So you can tell whether someone is retarded or not.
 And this time, the eneme is ... youself! 
 Uh..maybe computer
 
-I reperform her in python, perhaps she is not the best one, but shut up! I love her. 
+I reperform her in python, perhaps she is not the best one, but I love her. 
 
 It's time to talk about game rule:
   1. Pick 4 different number between 0~9.
