@@ -16,7 +16,7 @@ It's time to talk about game rule:
       if the NUMBER and the POSITION both correct, it denote as A.
       if the NUMBER correct, but the POSITION wrong, it denote as B.
       if neither the NUMBER and the POSITION wrong, it denote as C.
-      for example, someone gauss 4315, 
+      for example, someone guess 4315, 
       comparer to the answer '2341',
       '4' number correct, position wrong, 1B.
       '3' number correct, position correct, 1A.
@@ -28,6 +28,6 @@ You should use those ABC hint to find the final answer.
 And this program provide 2 mode, 
 you can guess the number produced by computer or
 you design an number to make computer gauss.
-But for the computer guess part, I only have random guess so far, maybe more method well come up someday. 
+But for the computer guess part, I only have random guess so far, maybe more method will come up someday. 
 
 BTW I don't know why my "README" format is like a mess, so forgive me. 
